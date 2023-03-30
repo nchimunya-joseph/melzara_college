@@ -1,0 +1,34 @@
+﻿{
+    "data": [
+        {
+            "cousre": "Operating System",
+            "name": "George",
+            "grade": 30
+        },
+        {
+            "cousre": "Operating System",
+            "name": "Cassious",
+            "grade": 30
+        },
+        {
+            "cousre": "Operating System",
+            "name": "Kemodes",
+            "grade": 30
+        },
+        {
+            "cousre": "Operating System",
+            "name": "Kelvin",
+            "grade": 30
+        },
+        {
+            "cousre": "Operating System",
+            "name": "Chileshe",
+            "grade": 30
+        },
+        {
+            "cousre": "Operating System",
+            "name": "Naomi",
+            "grade": 30
+        }
+    ]
+}
