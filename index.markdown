@@ -24,8 +24,7 @@ Joseph M. Nchimunya
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/xvlll8two/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/github-dark.svg)](https://www.github.com/joseph-mathias/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/github-dark.svg)](https://www.github.com/nchimunya-joseph/#gh-dark-mode-only)
+
 
 
 [Puzzle Day 2023][discord]
@@ -38,9 +37,9 @@ What’s new for 2023?
 
 ## Communities
 -    [Discord][discord]
--    GitHub
+-    [GitHub](https://www.github.com/nchimunya-joseph)
 -    SoundCloud
--    Stack Exchange
+-    [Stack Overflow](https://stackoverflow.com/)
 
 [website]: https://nchimunya.netlify.app/
 [twitter]: https://twitter.com/Xvlll8two
