@@ -1,8 +1,18 @@
 ---
 layout: page
 ---
-
 {{ content }}
+
+<style>
+    td:hover {
+        background-color: #27262b;
+    }
+
+    td:nth-child(even) {
+        background-color: #27262b;
+    }
+
+</style>
 <!-- {{site.data.file.data}} -->
 <table class="table table-striped">
     <tr>
@@ -20,9 +30,10 @@ layout: page
         </th>
         <td style="text-transform: capitalize;">{{result.first_name}}</td>
         <td style="text-transform: capitalize;">{{result.last_name}}</td>
-        <td>{{result.CA}}</td>
-        <td>{{result.percentage}}</td>
-        <td>{{result.grade}}</td>
+        <td style="text-align: right;font-weight: 800;">{{result.CA}}</td>
+        <td style="text-align: right;font-weight: 600;">{{result.percentage}}</td>
+        <td style="text-align: right;font-weight: 600; font-family: 'Courier New', Courier, monospace;">{{result.grade}}
+        </td>
     </tr>
     {% endfor %}
 </table>
