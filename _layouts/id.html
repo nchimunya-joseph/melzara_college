@@ -1,0 +1,24 @@
+---
+layout: page
+---
+{{ content }}
+
+<table class="table table-striped">
+    <tr>
+        <th>Course/Group No:</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Middle Name</th>
+    </tr>
+    {% for result in site.data.id.data %}
+    <tr>
+        <th>
+            {{result.id}}
+        </th>
+        <td style="text-transform: capitalize;">{{result.first_name}}</td>
+        <td style="text-transform: capitalize;">{{result.last_name}}</td>
+        <td style="text-transform: capitalize;">{{result.middle_name}}</td>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
