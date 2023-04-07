@@ -31,7 +31,7 @@ github_username:  nchimunya-joseph
 # Build settings
 theme: just-the-docs
 # theme: minima
-color_scheme: dark
+color_scheme: light
 plugins:
   - jekyll-feed
 # Exclude from processing.
