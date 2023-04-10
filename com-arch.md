@@ -21,33 +21,33 @@ Discord Regular Discions: [Disord](https://discord.gg/VDSSZHDm)
 The course material is divided into five modules, each covering a set of related topics. This
 section contains the lecture notes for the course.
 
-| Week No.     | Topics                                   |
-|:-------------|:-----------------------------------------|
-|Module 1        |                                        |
+| Week No.     | Topics                                   |Notes |
+|:-------------|:-----------------------------------------|:-----|
+|Module 1        |                                        |[m1]|
 |L1              | History of Calculation and Computer Architecture |
 |L2	             | Influence of Technology and Software on Instruction Sets: Up to the dawn of IBM 360|
 |L3	             | Complex Instruction Set Evolution in the Sixties: Stack and GPR Architectures|
 |L4	             | Microprogramming|
 |L5	             | Simple Instruction Pipelining|
 |L6	             | Pipeline Hazards|
-|Module 2        | |
+|Module 2        | |[m2]|
 |L7	             | Multilevel Memories - Technology|
 |L8	             | Cache (Memory) Performance Optimization|
 |L9	             | Virtual Memory Basics    |
 |L10	         | Virtual Memory: Part Deux|
-|Module 3           |                   |
+|Module 3           | [m3]|
 |L11	            | Complex Pipelining|
 |L12	            | Out of Order Execution and Register Renaming|
 |L13	            | Branch Prediction and Speculative Execution|
 |L14	            | Advanced Superscalar Architectures         |
 |L15	            | Microprocessor Evolution: 4004 to Pentium 4|
-|Module 4           |                                            |
+|Module 4           |                                            |[m4]|
 |L16	            | Synchronization and Sequential Consistency |
 |L17	            | Cache Coherence                     |
 |L18	            | Cache Coherence (Implementation)    |
 |L19	            | Snoopy Protocols                    |
 |L20	            | Relaxed Memory Models               |
-|Module 5           |                                     |
+|Module 5           |                                     |[m5]|
 |L21	            | VLIW/EPIC: Statically Scheduled ILP |
 |L22	            | Vector Computers                    |
 |L23	            | Multithreaded Processors            |
@@ -76,3 +76,9 @@ reading materials
 [notes]: https://classroom.google.com/c/NTM2NjA5NzQwMTc4?cjc=efofkxy
 [assignments]: https://classroom.google.com/c/NTM2NjA5NzQwMTc4?cjc=efofkxy
 [homeworks]: https://classroom.google.com/c/NTM2NjA5NzQwMTc4?cjc=efofkxy
+
+[m1]:(https://classroom.google.com/c/NTM2NjA5NzQwMTc4/p/NjAzMzE3Nzg5MzIw/details)
+[m2]:(https://classroom.google.com/c/NTM2NjA5NzQwMTc4/p/NjAzMzE4NjkxOTEx/details)
+[m3]:(https://classroom.google.com/c/NTM2NjA5NzQwMTc4/p/NjAzMzE5MDAyNTg3/details)
+[m4]:(https://classroom.google.com/c/NTM2NjA5NzQwMTc4/p/NjAzMzE4ODczMjIx/details)
+[m5]:(https://classroom.google.com/c/NTM2NjA5NzQwMTc4/p/NjAzMzE5NTAxNDEx/details)

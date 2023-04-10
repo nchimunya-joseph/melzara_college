@@ -13,7 +13,7 @@ RRR Week Announcements
 * Instructor office hours this week: Monday through Thursday, 9-5:30pm CAT, Friday, 9-13pm, online.
 * We’ll work out a solution to the missing weeks of discussion attendance after the final exam is over, so please hold any questions about discussion attendance until then.
 
-Resources and Assignments: [Notes][notes] [Assignment][assignments] [Homework][homeworks]
+Resources and Assignments: [Notes](https://classroom.google.com/c/NTU2NDI1MzE2MDYx/p/NjAzNDA4MDYwODg0/details) [Assignment](https://classroom.google.com/c/NTU2NDI1MzE2MDYx/p/NjAzNDA4MDYwODg0/details) [Homework](https://classroom.google.com/c/NTU2NDI1MzE2MDYx/p/NjAzNDA4MDYwODg0/details)
 
 Discord Regular Discions: [Disord](https://discord.gg/RBVs35VB)
 
